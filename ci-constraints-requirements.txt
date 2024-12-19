@@ -21,7 +21,7 @@ build==1.2.2.post1
     #   cryptography (pyproject.toml)
 certifi>=2024.07.04
     # via requests
-charset-normalizer==3.1.0
+charset-normalizer==3.4.0
     # via requests
 check-sdist==1.2.0
     # via cryptography (pyproject.toml)
